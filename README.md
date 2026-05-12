@@ -4,6 +4,8 @@
 This project analyzes an online retail transactions dataset (2010 to 2011) to understand customer behavior, product performance, and revenue distribution across countries and time.
 
 ## Data
+Dataset source: https://www.kaggle.com/datasets/vijayuv/onlineretail
+
 The notebook expects an OnlineRetail CSV file. Update the file path in the notebook to match your local location before running.
 
 ## Workflow
